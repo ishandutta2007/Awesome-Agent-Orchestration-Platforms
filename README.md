@@ -1,101 +1,91 @@
-# Awesome-Agent-Orchestration-Platforms
+# Top AI Agent Orchestration Platforms & Frameworks (2026)
 
-## AI Agent Orchestration Platforms & Tools for Claude Ecosystem
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![Last Updated](https://img.shields.io/badge/last%20updated-May%202026-blue)
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Multi-Agent Orchestration with Claude / Anthropic Models*  
-**Last updated: March 2026**
+**A curated list of Multi-Agent Systems (MAS), Agentic Workflows, and Orchestration Frameworks for the Claude & LLM Ecosystem.**
 
-This repository tracks notable **platforms** and **open-source projects** for **agent orchestration**, especially those optimized for or compatible with **Claude** (Anthropic). These tools enable building, coordinating, and scaling teams of AI agents for complex workflows like software development, research, automation, and multi-step reasoning.
+This repository tracks the most powerful tools for building, scaling, and managing **Autonomous AI Agent Teams**. Whether you are building **Digital Assembly Lines**, implementing **Agentic RAG**, or designing **Human-on-the-Loop (HOTL)** systems, this guide covers the essential tools for 2026.
 
-**Examples** include Claude Code Agent Teams, Claude Flow, LangGraph, CrewAI, and specialized multi-Claude tools. Emphasis is on frameworks that support parallel execution, shared memory, task delegation, and collaboration between agents powered by Claude.
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local/custom Claude-compatible setups (via APIs or proxies), and full control over orchestration logic.
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-## Table of Contents
-- [SaaS Products / Platforms](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## SaaS Products / Platforms
-
-### Core Orchestration Platforms for Claude
-
-- **[Claude Code Agent Teams](https://code.claude.com/docs/en/agent-teams)**  
-  Anthropic's native multi-agent collaboration feature in Claude Code. Allows spawning multiple Claude instances that share task lists, communicate directly, claim work, and coordinate in parallel (team lead + teammates model).
-
-- **[Claude Flow](https://github.com/ruvnet/ruflo)** (and related tools)  
-  Multi-agent swarm orchestrator built for Claude Code. Supports hierarchical and mesh coordination with dozens of specialized agents for complex development and automation tasks.
-
-- **[LangGraph](https://github.com/langchain-ai/langgraph)**  
-  Leading graph-based agent orchestration framework. Excellent Claude support via LangChain. Enables stateful, controllable multi-agent workflows with persistence, human-in-the-loop, and complex branching logic.
-
-- **[CrewAI](https://github.com/crewAIInc/crewAI)**  
-  Popular role-based multi-agent orchestration framework. Easy to define crews of agents with roles/goals; strong compatibility with Claude models for collaborative task execution.
-
-### Specialized Multi-Claude Tools
-
-- Other tools leveraging Claude's strengths in coding, reasoning, and tool use for agent teams, often built on top of Claude Code or the Anthropic SDK.
-
-**Other notable mentions**: AutoGen (Microsoft), OpenAI Swarm (adaptable), Google ADK, and various Claude-specific wrappers.
-
-## Open-Source GitHub Projects
-
-### Dedicated Claude / Multi-Agent Orchestration Projects
-
-- **[Claude Flow / ruvnet tools](https://github.com/ruvnet/ruflo)**  
-  Enterprise-grade multi-agent orchestration platform for Claude Code. Features 60+ specialized agents, hive-mind/swarm intelligence, shared memory, and hierarchical coordination.
-
-- **[LangGraph](https://github.com/langchain-ai/langgraph)**  
-  Production-ready graph orchestration for agents. Stateful workflows, checkpoints, persistence, and excellent integration with Anthropic Claude models. Widely used for complex, reliable agent systems.
-
-- **[CrewAI](https://github.com/crewAIInc/crewAI)**  
-  Role-based multi-agent framework. Simple yet powerful for creating collaborative agent teams. Full support for Claude via API and strong community adoption.
-
-- **[AutoGen (Microsoft)](https://github.com/microsoft/autogen)**  
-  Multi-agent conversation framework. Agents communicate via messages; highly flexible for research and dynamic collaboration with Claude.
-
-- **[Claude Agent SDK / related forks]**  
-  Tools and extensions around Anthropic's Agent SDK for building custom orchestration layers.
-
-### Additional Strong Open-Source Options
-
-- **Composio Agent Orchestrator** — Tool integration and orchestration for multiple agents including Claude.
-- **Smolagents** — Lightweight, efficient agent framework compatible with various models including Claude.
-- **Pydantic AI** — Structured output and agent tooling with strong typing.
-- Many community projects combining LangGraph/CrewAI with Claude for specific domains (coding agents, research swarms, automation).
-
-**Frameworks for building custom agents**: LangGraph for control, CrewAI for speed, AutoGen for conversational flexibility. Combine with Anthropic SDK, MCP (Model Context Protocol), and local proxies for enhanced Claude usage.
-
-## How to Contribute
-
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Agent orchestration tools, especially with powerful models like Claude, can consume significant tokens and costs. Always monitor usage and implement guardrails.
-- For production use, ensure compliance with Anthropic's terms, data privacy, and security best practices.
+## 🚀 Trending in 2026
+- **MCP (Model Context Protocol):** The standard for connecting agents to data and tools.
+- **Type-Safe Agents:** Rise of frameworks like **Pydantic AI** for production-grade validation.
+- **Vibe Coding:** Intent-based orchestration where agents handle the scaffolding.
+- **Agent FinOps:** Observability and cost management for high-concurrency agent swarms.
 
 ---
 
-**Made for developers, AI engineers, and teams building with Claude.**  
-Let's make agent orchestration more powerful, controllable, and accessible.
+## 🏗️ High-Control Orchestration (Deterministic)
+*Best for production systems requiring strict reliability and state management.*
 
-## Star History
+- **[LangGraph](https://github.com/langchain-ai/langgraph)**  
+  The 2026 industry standard for stateful, graph-based orchestration. Supports cycles, persistence, and "Time Travel" debugging.
+- **[LlamaIndex Workflows](https://github.com/run-llama/llama_index)**  
+  Event-driven orchestration optimized for **Agentic RAG** and complex data retrieval missions.
+- **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)**  
+  Microsoft's enterprise-grade SDK for C#, Python, and Java. Ideal for ecosystem integration.
 
-<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Agent-Orchestration-Platforms&type=date&legend=bottom-right">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Agent-Orchestration-Platforms&type=date&theme=dark&legend=bottom-right" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Agent-Orchestration-Platforms&type=date&legend=bottom-right" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Agent-Orchestration-Platforms&type=date&legend=bottom-right" />
- </picture>
-</a>
+## 👥 Role-Based & Multi-Agent Frameworks
+*Best for collaborative teams and rapid prototyping of "Agent Crews".*
+
+- **[CrewAI](https://github.com/crewAIInc/crewAI)**  
+  The leading "Manager-Worker" framework. Extremely intuitive for defining roles, goals, and collaborative processes.
+- **[AutoGen 2.0 (AG2)](https://github.com/microsoft/autogen)**  
+  Next-gen conversational framework for high-concurrency, asynchronous agent interactions.
+- **[smolagents](https://github.com/huggingface/smolagents)**  
+  Hugging Face's minimalist, code-first approach. Focuses on tool-calling precision without abstraction bloat.
+
+## 🛠️ Vendor-Native SDKs & Protocols
+*Optimized for specific LLM providers and tool integration.*
+
+- **[Claude Agent SDK](https://github.com/anthropics/anthropic-sdk-python)**  
+  Native Anthropic support for **MCP (Model Context Protocol)**. Best-in-class tool use and reasoning for Claude 3.5/4 models.
+- **[OpenAI Agents SDK](https://github.com/openai/openai-python)**  
+  Streamlined orchestration for GPT-5 and Swarm-based architectures.
+- **[Pydantic AI](https://github.com/pydantic/pydantic-ai)**  
+  Fast-growing framework for building **Type-Safe Agents** with rigorous schema validation.
+
+## 🧰 Tools & Utilities
+*Essential components for agent memory, tool-calling, and environment interaction.*
+
+- **[Composio](https://github.com/composiohq/composio)**  
+  The industry leader for **Agent Tool Integration**. Connects agents to 100+ apps like GitHub, Slack, and Salesforce.
+- **[Firecrawl](https://github.com/mendableai/firecrawl)**  
+  The go-to for **Browser Agents**. Turns any website into LLM-ready markdown for agentic research.
+- **[LangSmith](https://www.langchain.com/langsmith)**  
+  The standard for **Agent Observability** and **Agent Telemetry**. Essential for debugging complex multi-agent traces.
+- **[Mem0](https://github.com/mem0ai/mem0)**  
+  The "Personal Memory" layer for AI agents. Provides long-term persistence and personalization.
+
+---
+
+## 📊 Comparison Table: Which Framework to Choose?
+
+| Goal | Recommended Tool | Why? |
+| :--- | :--- | :--- |
+| **Production Reliability** | LangGraph | Stateful control & checkpoints. |
+| **Rapid Prototyping** | CrewAI | Intuitive role-based DSL. |
+| **Data-Heavy RAG** | LlamaIndex | Specialized in knowledge retrieval. |
+| **Claude Optimization** | Claude SDK + MCP | Native protocol support. |
+| **Developer Experience** | Pydantic AI | Type safety and validation. |
+
+---
+
+## 🎓 Key Concepts & Terminology
+- **Multi-Agent Orchestration (MAO):** Coordinating multiple specialized agents to solve complex tasks.
+- **Digital Assembly Lines:** Sequential agentic workflows that mimic industrial pipelines.
+- **Agentic RAG:** LLM agents that autonomously plan and execute multi-step research.
+- **HOTL (Human-on-the-Loop):** A design pattern where humans supervise agent telemetry rather than every step.
+
+## 🤝 How to Contribute
+We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+1. Fork the repo.
+2. Add your tool to the relevant section.
+3. Ensure it includes a 1-sentence description and a link.
+
+---
+
+## 📈 Star History
+[![Star History Chart](https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Agent-Orchestration-Platforms&type=date)](https://star-history.com/#ishandutta2007/Awesome-Agent-Orchestration-Platforms&Date)
+
+*Maintained by the AI Community. Last Updated: May 2026.*
