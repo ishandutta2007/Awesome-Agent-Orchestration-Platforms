@@ -32,6 +32,8 @@ This repository tracks the most powerful tools for building, scaling, and managi
   The leading "Manager-Worker" framework. Extremely intuitive for defining roles, goals, and collaborative processes.
 - **[AutoGen 2.0 (AG2)](https://github.com/microsoft/autogen)**  
   Next-gen conversational framework for high-concurrency, asynchronous agent interactions.
+- **[Agent Teams](https://github.com/777genius/agent-teams-ai)**
+  Open-source desktop platform for orchestrating autonomous AI coding teams across Claude, Codex, and OpenCode. Give high-level commands while agents handle Kanban tasks, messaging, code review, logs, and approvals across 200+ models and 75+ LLM providers.
 - **[smolagents](https://github.com/huggingface/smolagents)**  
   Hugging Face's minimalist, code-first approach. Focuses on tool-calling precision without abstraction bloat.
 
