@@ -59,6 +59,9 @@ This repository tracks the most powerful tools for building, scaling, and managi
 - **[Mem0](https://github.com/mem0ai/mem0)**  
   The "Personal Memory" layer for AI agents. Provides long-term persistence and personalization.
 
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)**  
+  Trust scoring and wallet identity verification for AI agents. Essential for **multi-agent FinOps** — verify agent wallet identity before high-stakes orchestration scenarios involving autonomous payments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ---
 
 ## 📊 Comparison Table: Which Framework to Choose?
