@@ -1,9 +1,18 @@
 # Top AI Agent Orchestration Platforms & Frameworks (2026)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 ![Last Updated](https://img.shields.io/badge/last%20updated-May%202026-blue)
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
+
 
 **A curated list of Multi-Agent Systems (MAS), Agentic Workflows, and Orchestration Frameworks for the Claude & LLM Ecosystem.**
+
+</div>
 
 This repository tracks the most powerful tools for building, scaling, and managing **Autonomous AI Agent Teams**. Whether you are building **Digital Assembly Lines**, implementing **Agentic RAG**, or designing **Human-on-the-Loop (HOTL)** systems, this guide covers the essential tools for 2026.
 
@@ -30,7 +39,7 @@ This repository tracks the most powerful tools for building, scaling, and managi
 
 - **[CrewAI](https://github.com/crewAIInc/crewAI)**  
   The leading "Manager-Worker" framework. Extremely intuitive for defining roles, goals, and collaborative processes.
-- **[AutoGen 2.0 (AG2)](https://github.com/microsoft/autogen)**  
+- **[AutoGen 2.0 (AG2)](https://github.com/ag2ai/ag2)**  
   Next-gen conversational framework for high-concurrency, asynchronous agent interactions.
 - **[Agent Teams](https://github.com/777genius/agent-teams-ai)**
   Open-source desktop platform for orchestrating autonomous AI coding teams across Claude, Codex, and OpenCode. Give high-level commands while agents handle Kanban tasks, messaging, code review, logs, and approvals across 200+ models and 75+ LLM providers.
@@ -44,7 +53,7 @@ This repository tracks the most powerful tools for building, scaling, and managi
   Native Anthropic support for **MCP (Model Context Protocol)**. Best-in-class tool use and reasoning for Claude 3.5/4 models.
 - **[OpenAI Agents SDK](https://github.com/openai/openai-python)**  
   Streamlined orchestration for GPT-5 and Swarm-based architectures.
-- **[Pydantic AI](https://github.com/pydantic/pydantic-ai)**  
+- **[Pydantic AI](https://ai.pydantic.dev)**  
   Fast-growing framework for building **Type-Safe Agents** with rigorous schema validation.
 
 ## 🧰 Tools & Utilities
@@ -52,9 +61,9 @@ This repository tracks the most powerful tools for building, scaling, and managi
 
 - **[Composio](https://github.com/composiohq/composio)**  
   The industry leader for **Agent Tool Integration**. Connects agents to 100+ apps like GitHub, Slack, and Salesforce.
-- **[Firecrawl](https://github.com/mendableai/firecrawl)**  
+- **[Firecrawl](https://github.com/firecrawl/firecrawl)**  
   The go-to for **Browser Agents**. Turns any website into LLM-ready markdown for agentic research.
-- **[LangSmith](https://www.langchain.com/langsmith)**  
+- **[LangSmith](https://smith.langchain.com)**  
   The standard for **Agent Observability** and **Agent Telemetry**. Essential for debugging complex multi-agent traces.
 - **[Mem0](https://github.com/mem0ai/mem0)**  
   The "Personal Memory" layer for AI agents. Provides long-term persistence and personalization.
@@ -88,6 +97,6 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 ---
 
 ## 📈 Star History
-[![Star History Chart](https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Agent-Orchestration-Platforms&type=date)](https://star-history.com/#ishandutta2007/Awesome-Agent-Orchestration-Platforms&Date)
+[![Star History Chart](https://api.star-history.com/chart?repos=ishandutta2007/awesome-agent-orchestration-platforms&type=date)](https://star-history.com/#ishandutta2007/awesome-agent-orchestration-platforms&Date)
 
 *Maintained by the AI Community. Last Updated: May 2026.*

@@ -6,11 +6,11 @@
 - [LangGraph](https://github.com/langchain-ai/langgraph): Stateful, graph-based agent orchestration.
 - [CrewAI](https://github.com/crewAIInc/crewAI): Role-based multi-agent collaboration.
 - [Claude Agent SDK](https://github.com/anthropics/anthropic-sdk-python): Native Anthropic SDK with MCP support.
-- [AutoGen 2.0](https://github.com/microsoft/autogen): Asynchronous conversational agents.
+- [AutoGen 2.0 (AG2)](https://github.com/ag2ai/ag2): Asynchronous conversational agents.
 
 ## Trending Standards
 - [Model Context Protocol (MCP)](https://modelcontextprotocol.io): Open standard for tool/data integration.
-- [Pydantic AI](https://github.com/pydantic/pydantic-ai): Type-safe agent development.
+- [Pydantic AI](https://ai.pydantic.dev): Type-safe agent development.
 
 ## Documentation
 - [README.md](/README.md): Main repository landing page.
