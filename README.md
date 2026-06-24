@@ -43,6 +43,8 @@ This repository tracks the most powerful tools for building, scaling, and managi
   Next-gen conversational framework for high-concurrency, asynchronous agent interactions.
 - **[Agent Teams](https://github.com/777genius/agent-teams-ai)**
   Open-source desktop platform for orchestrating autonomous AI coding teams across Claude, Codex, and OpenCode. Give high-level commands while agents handle Kanban tasks, messaging, code review, logs, and approvals across 200+ models and 75+ LLM providers.
+- **[Hephaestus](https://github.com/agentlas-ai/Hephaestus)**
+  Local Python runtime for packaging and routing coding agents and skills across Claude Code, Codex, and Cursor, with meta-agent scaffolding, ontology files, scoped memory, and policy checks.
 - **[smolagents](https://github.com/huggingface/smolagents)**  
   Hugging Face's minimalist, code-first approach. Focuses on tool-calling precision without abstraction bloat.
 
