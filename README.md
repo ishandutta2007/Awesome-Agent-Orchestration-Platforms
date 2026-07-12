@@ -47,6 +47,8 @@ This repository tracks the most powerful tools for building, scaling, and managi
   Local Python runtime for packaging and routing coding agents and skills across Claude Code, Codex, and Cursor, with meta-agent scaffolding, ontology files, scoped memory, and policy checks.
 - **[smolagents](https://github.com/huggingface/smolagents)**  
   Hugging Face's minimalist, code-first approach. Focuses on tool-calling precision without abstraction bloat.
+- **[Agon](https://github.com/AutoResearch-Factory/Agon)**  
+  Built on **Prompt Economy**, which treats prompt engineering as engineering and maximizes the ROI on every prompt. Runs scientist/coder/auditor loops across 10+ disciplines with just 18 core roles.
 
 ## 🛠️ Vendor-Native SDKs & Protocols
 *Optimized for specific LLM providers and tool integration.*
