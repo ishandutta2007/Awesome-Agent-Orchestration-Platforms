@@ -37,14 +37,22 @@ This repository tracks the most powerful tools for building, scaling, and managi
   The 2026 industry standard for stateful, graph-based orchestration. Supports cycles, persistence, and "Time Travel" debugging.
 - **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social&color=white)](https://github.com/microsoft/semantic-kernel/stargazers)  
   Microsoft's enterprise-grade SDK for C#, Python, and Java. Ideal for ecosystem integration.
+- **[Mastra](https://github.com/mastra-ai/mastra)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social&color=white)](https://github.com/mastra-ai/mastra/stargazers)  
+  TypeScript-first production-grade agent framework with native Model Context Protocol (MCP) support.
 
 ## 👥 Role-Based & Multi-Agent Frameworks
 *Best for collaborative teams and rapid prototyping of "Agent Crews".*
 
+- **[Dify](https://github.com/langgenius/dify)** [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
+  Popular open-source LLM app development platform featuring a visual workflow designer for multi-agent coordination.
 - **[CrewAI](https://github.com/crewAIInc/crewAI)** [![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
   The leading "Manager-Worker" framework. Extremely intuitive for defining roles, goals, and collaborative processes.
+- **[ChatDev](https://github.com/OpenBMB/ChatDev)** [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social&color=white)](https://github.com/OpenBMB/ChatDev/stargazers)  
+  Virtual software company simulator using collaborative agents to execute complex programming tasks.
 - **[smolagents](https://github.com/huggingface/smolagents)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social&color=white)](https://github.com/huggingface/smolagents/stargazers)  
   Hugging Face's minimalist, code-first approach. Focuses on tool-calling precision without abstraction bloat.
+- **[Camel](https://github.com/camel-ai/camel)** [![GitHub stars](https://img.shields.io/github/stars/camel-ai/camel?style=social&color=white)](https://github.com/camel-ai/camel/stargazers)  
+  A communicative agent framework enabling auto-collaborative behaviors among multiple specialized roles.
 - **[AutoGen 2.0 (AG2)](https://github.com/ag2ai/ag2)** [![GitHub stars](https://img.shields.io/github/stars/ag2ai/ag2?style=social&color=white)](https://github.com/ag2ai/ag2/stargazers)  
   Next-gen conversational framework for high-concurrency, asynchronous agent interactions.
 - **[Agent Teams](https://github.com/777genius/agent-teams-ai)** [![GitHub stars](https://img.shields.io/github/stars/777genius/agent-teams-ai?style=social&color=white)](https://github.com/777genius/agent-teams-ai/stargazers)  
@@ -59,6 +67,8 @@ This repository tracks the most powerful tools for building, scaling, and managi
 
 - **[OpenAI Agents SDK](https://github.com/openai/openai-python)** [![GitHub stars](https://img.shields.io/github/stars/openai/openai-python?style=social&color=white)](https://github.com/openai/openai-python/stargazers)  
   Streamlined orchestration for GPT-5 and Swarm-based architectures.
+- **[Vercel AI SDK](https://github.com/vercel/ai)** [![GitHub stars](https://img.shields.io/github/stars/vercel/ai?style=social&color=white)](https://github.com/vercel/ai/stargazers)  
+  TypeScript toolkit for building structured AI responses, chat interfaces, and model routing.
 - **[Pydantic AI](https://ai.pydantic.dev)** [![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social&color=white)](https://github.com/pydantic/pydantic-ai/stargazers)  
   Fast-growing framework for building **Type-Safe Agents** with rigorous schema validation.
 - **[Claude Agent SDK](https://github.com/anthropics/anthropic-sdk-python)** [![GitHub stars](https://img.shields.io/github/stars/anthropics/anthropic-sdk-python?style=social&color=white)](https://github.com/anthropics/anthropic-sdk-python/stargazers)  
@@ -71,6 +81,10 @@ This repository tracks the most powerful tools for building, scaling, and managi
   The go-to for **Browser Agents**. Turns any website into LLM-ready markdown for agentic research.
 - **[Mem0](https://github.com/mem0ai/mem0)** [![GitHub stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social&color=white)](https://github.com/mem0ai/mem0/stargazers)  
   The "Personal Memory" layer for AI agents. Provides long-term persistence and personalization.
+- **[LiteLLM](https://github.com/BerriAI/litellm)** [![GitHub stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social&color=white)](https://github.com/BerriAI/litellm/stargazers)  
+  The standard translation proxy. Call 100+ LLMs using the OpenAI input/output format.
+- **[Langfuse](https://github.com/langfuse/langfuse)** [![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
+  Open-source LLM engineering platform providing telemetry, evaluation, prompt management, and metrics.
 - **[Composio](https://github.com/composiohq/composio)** [![GitHub stars](https://img.shields.io/github/stars/composiohq/composio?style=social&color=white)](https://github.com/composiohq/composio/stargazers)  
   The industry leader for **Agent Tool Integration**. Connects agents to 100+ apps like GitHub, Slack, and Salesforce.
 - **[OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay)** [![GitHub stars](https://img.shields.io/github/stars/ShakespeareLabs/open-agent-relay?style=social&color=white)](https://github.com/ShakespeareLabs/open-agent-relay/stargazers)  
@@ -85,8 +99,10 @@ This repository tracks the most powerful tools for building, scaling, and managi
 | Goal | Recommended Tool | Why? |
 | :--- | :--- | :--- |
 | **Production Reliability** | LangGraph | Stateful control & checkpoints. |
-| **Rapid Prototyping** | CrewAI | Intuitive role-based DSL. |
+| **Visual Agent Design** | Dify | Visual node-based workflow builder. |
+| **Rapid Prototyping** | CrewAI / ChatDev | Intuitive role-based DSL / simulation. |
 | **Data-Heavy RAG** | LlamaIndex | Specialized in knowledge retrieval. |
+| **JS/TS Integration** | Vercel AI SDK / Mastra | Native TypeScript support & SDK ecosystem. |
 | **Claude Optimization** | Claude SDK + MCP | Native protocol support. |
 | **Developer Experience** | Pydantic AI | Type safety and validation. |
 
