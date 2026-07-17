@@ -1,12 +1,16 @@
 # Top AI Agent Orchestration Platforms & Frameworks (2026)
 
 <div align="center">
+  <img src="assets/banner.svg" alt="Awesome Agent Orchestration Platforms Banner" width="100%" />
+</div>
+
+<div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 ![Last Updated](https://img.shields.io/badge/last%20updated-May%202026-blue)
 <br />
   <a href="https://github.com/ishandutta2007">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
 
@@ -27,52 +31,52 @@ This repository tracks the most powerful tools for building, scaling, and managi
 ## 🏗️ High-Control Orchestration (Deterministic)
 *Best for production systems requiring strict reliability and state management.*
 
-- **[LangGraph](https://github.com/langchain-ai/langgraph)**  
-  The 2026 industry standard for stateful, graph-based orchestration. Supports cycles, persistence, and "Time Travel" debugging.
-- **[LlamaIndex Workflows](https://github.com/run-llama/llama_index)**  
+- **[LlamaIndex Workflows](https://github.com/run-llama/llama_index)** [![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white)](https://github.com/run-llama/llama_index/stargazers)  
   Event-driven orchestration optimized for **Agentic RAG** and complex data retrieval missions.
-- **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)**  
+- **[LangGraph](https://github.com/langchain-ai/langgraph)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
+  The 2026 industry standard for stateful, graph-based orchestration. Supports cycles, persistence, and "Time Travel" debugging.
+- **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social&color=white)](https://github.com/microsoft/semantic-kernel/stargazers)  
   Microsoft's enterprise-grade SDK for C#, Python, and Java. Ideal for ecosystem integration.
 
 ## 👥 Role-Based & Multi-Agent Frameworks
 *Best for collaborative teams and rapid prototyping of "Agent Crews".*
 
-- **[CrewAI](https://github.com/crewAIInc/crewAI)**  
+- **[CrewAI](https://github.com/crewAIInc/crewAI)** [![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
   The leading "Manager-Worker" framework. Extremely intuitive for defining roles, goals, and collaborative processes.
-- **[AutoGen 2.0 (AG2)](https://github.com/ag2ai/ag2)**  
-  Next-gen conversational framework for high-concurrency, asynchronous agent interactions.
-- **[Agent Teams](https://github.com/777genius/agent-teams-ai)**
-  Open-source desktop platform for orchestrating autonomous AI coding teams across Claude, Codex, and OpenCode. Give high-level commands while agents handle Kanban tasks, messaging, code review, logs, and approvals across 200+ models and 75+ LLM providers.
-- **[Hephaestus](https://github.com/agentlas-ai/Hephaestus)**
-  Local Python runtime for packaging and routing coding agents and skills across Claude Code, Codex, and Cursor, with meta-agent scaffolding, ontology files, scoped memory, and policy checks.
-- **[smolagents](https://github.com/huggingface/smolagents)**  
+- **[smolagents](https://github.com/huggingface/smolagents)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social&color=white)](https://github.com/huggingface/smolagents/stargazers)  
   Hugging Face's minimalist, code-first approach. Focuses on tool-calling precision without abstraction bloat.
-- **[Agon](https://github.com/AutoResearch-Factory/Agon)**  
+- **[AutoGen 2.0 (AG2)](https://github.com/ag2ai/ag2)** [![GitHub stars](https://img.shields.io/github/stars/ag2ai/ag2?style=social&color=white)](https://github.com/ag2ai/ag2/stargazers)  
+  Next-gen conversational framework for high-concurrency, asynchronous agent interactions.
+- **[Agent Teams](https://github.com/777genius/agent-teams-ai)** [![GitHub stars](https://img.shields.io/github/stars/777genius/agent-teams-ai?style=social&color=white)](https://github.com/777genius/agent-teams-ai/stargazers)  
+  Open-source desktop platform for orchestrating autonomous AI coding teams across Claude, Codex, and OpenCode. Give high-level commands while agents handle Kanban tasks, messaging, code review, logs, and approvals across 200+ models and 75+ LLM providers.
+- **[Hephaestus](https://github.com/agentlas-ai/Hephaestus)** [![GitHub stars](https://img.shields.io/github/stars/agentlas-ai/Hephaestus?style=social&color=white)](https://github.com/agentlas-ai/Hephaestus/stargazers)  
+  Local Python runtime for packaging and routing coding agents and skills across Claude Code, Codex, and Cursor, with meta-agent scaffolding, ontology files, scoped memory, and policy checks.
+- **[Agon](https://github.com/AutoResearch-Factory/Agon)** [![GitHub stars](https://img.shields.io/github/stars/AutoResearch-Factory/Agon?style=social&color=white)](https://github.com/AutoResearch-Factory/Agon/stargazers)  
   Built on **Prompt Economy**, which treats prompt engineering as engineering and maximizes the ROI on every prompt. Runs scientist/coder/auditor loops across 10+ disciplines with just 18 core roles.
 
 ## 🛠️ Vendor-Native SDKs & Protocols
 *Optimized for specific LLM providers and tool integration.*
 
-- **[Claude Agent SDK](https://github.com/anthropics/anthropic-sdk-python)**  
-  Native Anthropic support for **MCP (Model Context Protocol)**. Best-in-class tool use and reasoning for Claude 3.5/4 models.
-- **[OpenAI Agents SDK](https://github.com/openai/openai-python)**  
+- **[OpenAI Agents SDK](https://github.com/openai/openai-python)** [![GitHub stars](https://img.shields.io/github/stars/openai/openai-python?style=social&color=white)](https://github.com/openai/openai-python/stargazers)  
   Streamlined orchestration for GPT-5 and Swarm-based architectures.
-- **[Pydantic AI](https://ai.pydantic.dev)**  
+- **[Pydantic AI](https://ai.pydantic.dev)** [![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social&color=white)](https://github.com/pydantic/pydantic-ai/stargazers)  
   Fast-growing framework for building **Type-Safe Agents** with rigorous schema validation.
+- **[Claude Agent SDK](https://github.com/anthropics/anthropic-sdk-python)** [![GitHub stars](https://img.shields.io/github/stars/anthropics/anthropic-sdk-python?style=social&color=white)](https://github.com/anthropics/anthropic-sdk-python/stargazers)  
+  Native Anthropic support for **MCP (Model Context Protocol)**. Best-in-class tool use and reasoning for Claude 3.5/4 models.
 
 ## 🧰 Tools & Utilities
 *Essential components for agent memory, tool-calling, and environment interaction.*
 
-- **[Composio](https://github.com/composiohq/composio)**  
-  The industry leader for **Agent Tool Integration**. Connects agents to 100+ apps like GitHub, Slack, and Salesforce.
-- **[Firecrawl](https://github.com/firecrawl/firecrawl)**  
+- **[Firecrawl](https://github.com/firecrawl/firecrawl)** [![GitHub stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social&color=white)](https://github.com/firecrawl/firecrawl/stargazers)  
   The go-to for **Browser Agents**. Turns any website into LLM-ready markdown for agentic research.
+- **[Mem0](https://github.com/mem0ai/mem0)** [![GitHub stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social&color=white)](https://github.com/mem0ai/mem0/stargazers)  
+  The "Personal Memory" layer for AI agents. Provides long-term persistence and personalization.
+- **[Composio](https://github.com/composiohq/composio)** [![GitHub stars](https://img.shields.io/github/stars/composiohq/composio?style=social&color=white)](https://github.com/composiohq/composio/stargazers)  
+  The industry leader for **Agent Tool Integration**. Connects agents to 100+ apps like GitHub, Slack, and Salesforce.
+- **[OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay)** [![GitHub stars](https://img.shields.io/github/stars/ShakespeareLabs/open-agent-relay?style=social&color=white)](https://github.com/ShakespeareLabs/open-agent-relay/stargazers)  
+  A local-first capability relay for agentic workflows that lets one agent invoke a restricted local agent or automation over a keyed trusted LAN.
 - **[LangSmith](https://smith.langchain.com)**  
   The standard for **Agent Observability** and **Agent Telemetry**. Essential for debugging complex multi-agent traces.
-- **[Mem0](https://github.com/mem0ai/mem0)**  
-  The "Personal Memory" layer for AI agents. Provides long-term persistence and personalization.
-- **[OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay)**
-  A local-first capability relay for agentic workflows that lets one agent invoke a restricted local agent or automation over a keyed trusted LAN.
 
 ---
 
