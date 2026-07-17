@@ -71,6 +71,8 @@ This repository tracks the most powerful tools for building, scaling, and managi
   The standard for **Agent Observability** and **Agent Telemetry**. Essential for debugging complex multi-agent traces.
 - **[Mem0](https://github.com/mem0ai/mem0)**  
   The "Personal Memory" layer for AI agents. Provides long-term persistence and personalization.
+- **[OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay)**
+  A local-first capability relay for agentic workflows that lets one agent invoke a restricted local agent or automation over a keyed trusted LAN.
 
 ---
 
