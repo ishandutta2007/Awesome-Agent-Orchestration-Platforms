@@ -61,6 +61,8 @@ This repository tracks the most powerful tools for building, scaling, and managi
   Local Python runtime for packaging and routing coding agents and skills across Claude Code, Codex, and Cursor, with meta-agent scaffolding, ontology files, scoped memory, and policy checks.
 - **[Agon](https://github.com/AutoResearch-Factory/Agon)** [![GitHub stars](https://img.shields.io/github/stars/AutoResearch-Factory/Agon?style=social&color=white)](https://github.com/AutoResearch-Factory/Agon/stargazers)  
   Built on **Prompt Economy**, which treats prompt engineering as engineering and maximizes the ROI on every prompt. Runs scientist/coder/auditor loops across 10+ disciplines with just 18 core roles.
+- **[Better Agent](https://github.com/ofekron/better-agent)** [![GitHub stars](https://img.shields.io/github/stars/ofekron/better-agent?style=social&color=white)](https://github.com/ofekron/better-agent/stargazers)\
+  Local web workspace for orchestrating native Claude, Codex, and Gemini coding-agent sessions with parallel delegation, persistent state, approval gates, file access, and restart recovery.
 
 ## 🛠️ Vendor-Native SDKs & Protocols
 *Optimized for specific LLM providers and tool integration.*
