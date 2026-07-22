@@ -63,6 +63,8 @@ This repository tracks the most powerful tools for building, scaling, and managi
   Built on **Prompt Economy**, which treats prompt engineering as engineering and maximizes the ROI on every prompt. Runs scientist/coder/auditor loops across 10+ disciplines with just 18 core roles.
 - **[Hivekeep](https://github.com/MarlBurroW/hivekeep)** [![GitHub stars](https://img.shields.io/github/stars/MarlBurroW/hivekeep?style=social&color=white)](https://github.com/MarlBurroW/hivekeep/stargazers)  
   Self-hosted, MIT-licensed platform to run a team of specialized AI agents with persistent memory and a web UI. Agents collaborate and build their own tools, mini-agents, and MCP plugins, reachable over Telegram, Slack, Discord, and Matrix in a single Bun and SQLite container.
+- **[Better Agent](https://github.com/ofekron/better-agent)** [![GitHub stars](https://img.shields.io/github/stars/ofekron/better-agent?style=social&color=white)](https://github.com/ofekron/better-agent/stargazers)\
+  Local web workspace for orchestrating native Claude, Codex, and Gemini coding-agent sessions with parallel delegation, persistent state, approval gates, file access, and restart recovery.
 
 ## 🛠️ Vendor-Native SDKs & Protocols
 *Optimized for specific LLM providers and tool integration.*
