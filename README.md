@@ -57,8 +57,8 @@ This repository tracks the most powerful tools for building, scaling, and managi
   Next-gen conversational framework for high-concurrency, asynchronous agent interactions.
 - **[Agent Teams](https://github.com/777genius/agent-teams-ai)** [![GitHub stars](https://img.shields.io/github/stars/777genius/agent-teams-ai?style=social&color=white)](https://github.com/777genius/agent-teams-ai/stargazers)  
   Open-source desktop platform for orchestrating autonomous AI coding teams across Claude, Codex, and OpenCode. Give high-level commands while agents handle Kanban tasks, messaging, code review, logs, and approvals across 200+ models and 75+ LLM providers.
-- **[Hephaestus](https://github.com/agentlas-ai/Hephaestus)** [![GitHub stars](https://img.shields.io/github/stars/agentlas-ai/Hephaestus?style=social&color=white)](https://github.com/agentlas-ai/Hephaestus/stargazers)  
-  Local Python runtime for packaging and routing coding agents and skills across Claude Code, Codex, and Cursor, with meta-agent scaffolding, ontology files, scoped memory, and policy checks.
+- **[Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS)** [![GitHub stars](https://img.shields.io/github/stars/agentlas-ai/Agentlas-OS?style=social&color=white)](https://github.com/agentlas-ai/Agentlas-OS/stargazers)\
+  Apache-2.0 local-first agent OS for portable agent teams, cross-host orchestration, MCP/A2A, and verification gates.
 - **[Agon](https://github.com/AutoResearch-Factory/Agon)** [![GitHub stars](https://img.shields.io/github/stars/AutoResearch-Factory/Agon?style=social&color=white)](https://github.com/AutoResearch-Factory/Agon/stargazers)  
   Built on **Prompt Economy**, which treats prompt engineering as engineering and maximizes the ROI on every prompt. Runs scientist/coder/auditor loops across 10+ disciplines with just 18 core roles.
 - **[Hivekeep](https://github.com/MarlBurroW/hivekeep)** [![GitHub stars](https://img.shields.io/github/stars/MarlBurroW/hivekeep?style=social&color=white)](https://github.com/MarlBurroW/hivekeep/stargazers)  
