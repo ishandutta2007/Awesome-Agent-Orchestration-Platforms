@@ -69,6 +69,8 @@ This repository tracks the most powerful tools for building, scaling, and managi
   Python runtime for hierarchical coding-agent orchestration. Each node runs in its own Git worktree, can delegate separable subtasks to child nodes, and operates within configurable iteration, depth, child, cost, and time limits.
 - **[Orkas](https://github.com/Orkas-AI/Orkas)** [![GitHub stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social&color=white)](https://github.com/Orkas-AI/Orkas/stargazers)\
   Open-source, local-first desktop AI workspace where a Commander turns goals into plans and coordinates specialist agents for research, coding, data analysis, documents, presentations, and video.
+- **[YYLO](https://github.com/yylo-dev/yylo)** [![GitHub stars](https://img.shields.io/github/stars/yylo-dev/yylo?style=social&color=white)](https://github.com/yylo-dev/yylo/stargazers)\
+  Command-line orchestrator for multi-agent coding workflows: runs Claude Code, Codex, and Gemini CLI agents in isolated git worktrees with kanban task state, typed merge and release flows, and autonomous agent loops.
 
 ## 🛠️ Vendor-Native SDKs & Protocols
 *Optimized for specific LLM providers and tool integration.*
