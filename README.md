@@ -72,6 +72,9 @@ This repository tracks the most powerful tools for building, scaling, and managi
 - **[YYLO](https://github.com/yylo-dev/yylo)** [![GitHub stars](https://img.shields.io/github/stars/yylo-dev/yylo?style=social&color=white)](https://github.com/yylo-dev/yylo/stargazers)\
   Command-line orchestrator for multi-agent coding workflows: runs Claude Code, Codex, and Gemini CLI agents in isolated git worktrees with kanban task state, typed merge and release flows, and autonomous agent loops.
 
+- **[Bunkhouse](https://github.com/braedonsaunders/bunkhouse)** [![GitHub stars](https://img.shields.io/github/stars/braedonsaunders/bunkhouse?style=social&color=white)](https://github.com/braedonsaunders/bunkhouse/stargazers)  
+  Open-source AI employees for main-street business: multitenant company inbox, org chart, and governed procedures.
+
 ## 🛠️ Vendor-Native SDKs & Protocols
 *Optimized for specific LLM providers and tool integration.*
 
