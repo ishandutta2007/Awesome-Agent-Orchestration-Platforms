@@ -74,6 +74,8 @@ This repository tracks the most powerful tools for building, scaling, and managi
 
 - **[Bunkhouse](https://github.com/braedonsaunders/bunkhouse)** [![GitHub stars](https://img.shields.io/github/stars/braedonsaunders/bunkhouse?style=social&color=white)](https://github.com/braedonsaunders/bunkhouse/stargazers)  
   Open-source AI employees for main-street business: multitenant company inbox, org chart, and governed procedures.
+- **[Coven](https://github.com/OpenCoven/coven)** [![GitHub stars](https://img.shields.io/github/stars/OpenCoven/coven?style=social&color=white)](https://github.com/OpenCoven/coven/stargazers)  
+  MIT-licensed, local-first daemon and CLI for orchestrating project-scoped coding-agent sessions. Runs Codex CLI, Claude Code, and other harnesses as PTY sessions inside explicit project-root boundaries, with SQLite-persisted history and a versioned local socket API.
 
 ## 🛠️ Vendor-Native SDKs & Protocols
 *Optimized for specific LLM providers and tool integration.*
