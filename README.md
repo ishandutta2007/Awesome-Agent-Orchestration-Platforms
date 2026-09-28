@@ -102,6 +102,7 @@ This repository tracks the most powerful tools for building, scaling, and managi
   The industry leader for **Agent Tool Integration**. Connects agents to 100+ apps like GitHub, Slack, and Salesforce.
 - **[OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay)** [![GitHub stars](https://img.shields.io/github/stars/ShakespeareLabs/open-agent-relay?style=social&color=white)](https://github.com/ShakespeareLabs/open-agent-relay/stargazers)  
   A local-first capability relay for agentic workflows that lets one agent invoke a restricted local agent or automation over a keyed trusted LAN.
+- **[Ordewell](https://github.com/ordewell/ordewell)** [![GitHub stars](https://img.shields.io/github/stars/ordewell/ordewell?style=social&color=white)](https://github.com/ordewell/ordewell/stargazers) Terminal CLI and TUI that turns one goal into an ordered, editable plan of coding agent tasks, each with its own harness, model and mode, and accepts a task as done only when its completion marker appears in that runner's output.
 - **[LangSmith](https://smith.langchain.com)**  
   The standard for **Agent Observability** and **Agent Telemetry**. Essential for debugging complex multi-agent traces.
 
