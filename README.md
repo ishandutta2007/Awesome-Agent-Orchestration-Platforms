@@ -74,6 +74,8 @@ This repository tracks the most powerful tools for building, scaling, and managi
 
 - **[Bunkhouse](https://github.com/braedonsaunders/bunkhouse)** [![GitHub stars](https://img.shields.io/github/stars/braedonsaunders/bunkhouse?style=social&color=white)](https://github.com/braedonsaunders/bunkhouse/stargazers)  
   Open-source AI employees for main-street business: multitenant company inbox, org chart, and governed procedures.
+- **[Tale](https://github.com/tale-project/tale)** [![GitHub stars](https://img.shields.io/github/stars/tale-project/tale?style=social&color=white)](https://github.com/tale-project/tale/stargazers)\
+  Open-source multi-agent workspace where teams delegate project tasks to configured agents, retain sandbox workspaces, and review reports and deliverables.
 
 ## 🛠️ Vendor-Native SDKs & Protocols
 *Optimized for specific LLM providers and tool integration.*
