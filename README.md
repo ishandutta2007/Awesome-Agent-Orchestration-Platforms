@@ -74,6 +74,8 @@ This repository tracks the most powerful tools for building, scaling, and managi
 
 - **[Bunkhouse](https://github.com/braedonsaunders/bunkhouse)** [![GitHub stars](https://img.shields.io/github/stars/braedonsaunders/bunkhouse?style=social&color=white)](https://github.com/braedonsaunders/bunkhouse/stargazers)  
   Open-source AI employees for main-street business: multitenant company inbox, org chart, and governed procedures.
+- **[AgentConnect](https://github.com/agentconnect-md/agentconnect)** [![GitHub stars](https://img.shields.io/github/stars/agentconnect-md/agentconnect?style=social&color=white)](https://github.com/agentconnect-md/agentconnect/stargazers)  
+  Apache-2.0 self-hosted platform for multi-agent orchestration across a team: each agent is configured independently with its own ACP runtime, model, workspace, tools, MCP servers, and permissions, and agents can call one another. Reachable from Slack, Telegram, Discord, and Lark, and triggered by GitHub, GitLab, Gitea/Forgejo, and Linear events, webhooks, and schedules.
 
 ## 🛠️ Vendor-Native SDKs & Protocols
 *Optimized for specific LLM providers and tool integration.*
