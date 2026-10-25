@@ -74,6 +74,8 @@ This repository tracks the most powerful tools for building, scaling, and managi
 
 - **[Bunkhouse](https://github.com/braedonsaunders/bunkhouse)** [![GitHub stars](https://img.shields.io/github/stars/braedonsaunders/bunkhouse?style=social&color=white)](https://github.com/braedonsaunders/bunkhouse/stargazers)  
   Open-source AI employees for main-street business: multitenant company inbox, org chart, and governed procedures.
+- **[Overboard](https://tryoverboard.com/?utm_source=awesome-agent-orchestration-platforms&utm_medium=directory)**  
+  Mac app for orchestration of Claude Code agents as real sessions in your project folders: scheduled agents, departments whose captain agent reviews past runs and dispatches the next ones, and one-off tasks sent from Telegram or Slack. Paid ($49 one-time, 14-day trial).
 
 ## 🛠️ Vendor-Native SDKs & Protocols
 *Optimized for specific LLM providers and tool integration.*
