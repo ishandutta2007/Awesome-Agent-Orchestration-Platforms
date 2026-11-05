@@ -8,10 +8,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 ![Last Updated](https://img.shields.io/badge/last%20updated-May%202026-blue)
-<br />
-  <a href="https://github.com/ishandutta2007">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 
 **A curated list of Multi-Agent Systems (MAS), Agentic Workflows, and Orchestration Frameworks for the Claude & LLM Ecosystem.**
@@ -155,6 +152,15 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 1. Fork the repo.
 2. Add your tool to the relevant section.
 3. Ensure it includes a 1-sentence description and a link.
+
+---
+
+## 💖 Support & Sponsorship
+Thank you so much for using and exploring **Awesome Agent Orchestration Platforms**! If you find this curated resource helpful for your work, research, or projects:
+- ⭐ **Star** this repository to show your appreciation and help others discover it.
+- 🍴 **Fork** and contribute your favorite frameworks, tools, and updates.
+- 📢 **Share** it with fellow AI engineers, builders, and your network.
+- ☕ **Buy me a coffee / Sponsor:** If you'd like to support ongoing curation and development, consider sponsoring via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Your support is deeply appreciated!
 
 ---
 
