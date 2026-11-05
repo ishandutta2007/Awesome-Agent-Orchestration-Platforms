@@ -49,81 +49,81 @@ The AI Agent Orchestration and Autonomous Agents sector is projected to grow fro
 ## 🏗️ High-Control Orchestration (Deterministic)
 *Best for production systems requiring strict reliability and state management.*
 
-- **[LlamaIndex Workflows](https://github.com/run-llama/llama_index)** [![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white)](https://github.com/run-llama/llama_index/stargazers)  
+- **[LlamaIndex Workflows](https://github.com/run-llama/llama_index)** [![GitHub_Stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white)](https://github.com/run-llama/llama_index/stargazers)  
   Event-driven orchestration optimized for **Agentic RAG** and complex data retrieval missions.
-- **[LangGraph](https://github.com/langchain-ai/langgraph)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
+- **[LangGraph](https://github.com/langchain-ai/langgraph)** [![GitHub_Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
   The 2026 industry standard for stateful, graph-based orchestration. Supports cycles, persistence, and "Time Travel" debugging.
-- **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social&color=white)](https://github.com/microsoft/semantic-kernel/stargazers)  
+- **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social&color=white)](https://github.com/microsoft/semantic-kernel/stargazers)  
   Microsoft's enterprise-grade SDK for C#, Python, and Java. Ideal for ecosystem integration.
-- **[Mastra](https://github.com/mastra-ai/mastra)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social&color=white)](https://github.com/mastra-ai/mastra/stargazers)  
+- **[Mastra](https://github.com/mastra-ai/mastra)** [![GitHub_Stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social&color=white)](https://github.com/mastra-ai/mastra/stargazers)  
   TypeScript-first production-grade agent framework with native Model Context Protocol (MCP) support.
 
 ## 👥 Role-Based & Multi-Agent Frameworks
 *Best for collaborative teams and rapid prototyping of "Agent Crews".*
 
-- **[Dify](https://github.com/langgenius/dify)** [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
+- **[Dify](https://github.com/langgenius/dify)** [![GitHub_Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
   Popular open-source LLM app development platform featuring a visual workflow designer for multi-agent coordination.
-- **[CrewAI](https://github.com/crewAIInc/crewAI)** [![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
+- **[CrewAI](https://github.com/crewAIInc/crewAI)** [![GitHub_Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
   The leading "Manager-Worker" framework. Extremely intuitive for defining roles, goals, and collaborative processes.
-- **[ChatDev](https://github.com/OpenBMB/ChatDev)** [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social&color=white)](https://github.com/OpenBMB/ChatDev/stargazers)  
+- **[ChatDev](https://github.com/OpenBMB/ChatDev)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social&color=white)](https://github.com/OpenBMB/ChatDev/stargazers)  
   Virtual software company simulator using collaborative agents to execute complex programming tasks.
-- **[smolagents](https://github.com/huggingface/smolagents)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social&color=white)](https://github.com/huggingface/smolagents/stargazers)  
+- **[smolagents](https://github.com/huggingface/smolagents)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social&color=white)](https://github.com/huggingface/smolagents/stargazers)  
   Hugging Face's minimalist, code-first approach. Focuses on tool-calling precision without abstraction bloat.
-- **[Camel](https://github.com/camel-ai/camel)** [![GitHub stars](https://img.shields.io/github/stars/camel-ai/camel?style=social&color=white)](https://github.com/camel-ai/camel/stargazers)  
+- **[Camel](https://github.com/camel-ai/camel)** [![GitHub_Stars](https://img.shields.io/github/stars/camel-ai/camel?style=social&color=white)](https://github.com/camel-ai/camel/stargazers)  
   A communicative agent framework enabling auto-collaborative behaviors among multiple specialized roles.
-- **[AutoGen 2.0 (AG2)](https://github.com/ag2ai/ag2)** [![GitHub stars](https://img.shields.io/github/stars/ag2ai/ag2?style=social&color=white)](https://github.com/ag2ai/ag2/stargazers)  
+- **[AutoGen 2.0 (AG2)](https://github.com/ag2ai/ag2)** [![GitHub_Stars](https://img.shields.io/github/stars/ag2ai/ag2?style=social&color=white)](https://github.com/ag2ai/ag2/stargazers)  
   Next-gen conversational framework for high-concurrency, asynchronous agent interactions.
-- **[Agent Teams](https://github.com/777genius/agent-teams-ai)** [![GitHub stars](https://img.shields.io/github/stars/777genius/agent-teams-ai?style=social&color=white)](https://github.com/777genius/agent-teams-ai/stargazers)  
+- **[Agent Teams](https://github.com/777genius/agent-teams-ai)** [![GitHub_Stars](https://img.shields.io/github/stars/777genius/agent-teams-ai?style=social&color=white)](https://github.com/777genius/agent-teams-ai/stargazers)  
   Open-source desktop platform for orchestrating autonomous AI coding teams across Claude, Codex, and OpenCode. Give high-level commands while agents handle Kanban tasks, messaging, code review, logs, and approvals across 200+ models and 75+ LLM providers.
-- **[Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS)** [![GitHub stars](https://img.shields.io/github/stars/agentlas-ai/Agentlas-OS?style=social&color=white)](https://github.com/agentlas-ai/Agentlas-OS/stargazers)\
+- **[Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS)** [![GitHub_Stars](https://img.shields.io/github/stars/agentlas-ai/Agentlas-OS?style=social&color=white)](https://github.com/agentlas-ai/Agentlas-OS/stargazers)\
   Apache-2.0 local-first agent OS for portable agent teams, cross-host orchestration, MCP/A2A, and verification gates.
-- **[Agon](https://github.com/AutoResearch-Factory/Agon)** [![GitHub stars](https://img.shields.io/github/stars/AutoResearch-Factory/Agon?style=social&color=white)](https://github.com/AutoResearch-Factory/Agon/stargazers)  
+- **[Agon](https://github.com/AutoResearch-Factory/Agon)** [![GitHub_Stars](https://img.shields.io/github/stars/AutoResearch-Factory/Agon?style=social&color=white)](https://github.com/AutoResearch-Factory/Agon/stargazers)  
   Built on **Prompt Economy**, which treats prompt engineering as engineering and maximizes the ROI on every prompt. Runs scientist/coder/auditor loops across 10+ disciplines with just 18 core roles.
-- **[Hivekeep](https://github.com/MarlBurroW/hivekeep)** [![GitHub stars](https://img.shields.io/github/stars/MarlBurroW/hivekeep?style=social&color=white)](https://github.com/MarlBurroW/hivekeep/stargazers)  
+- **[Hivekeep](https://github.com/MarlBurroW/hivekeep)** [![GitHub_Stars](https://img.shields.io/github/stars/MarlBurroW/hivekeep?style=social&color=white)](https://github.com/MarlBurroW/hivekeep/stargazers)  
   Self-hosted, MIT-licensed platform to run a team of specialized AI agents with persistent memory and a web UI. Agents collaborate and build their own tools, mini-agents, and MCP plugins, reachable over Telegram, Slack, Discord, and Matrix in a single Bun and SQLite container.
-- **[Better Agent](https://github.com/ofekron/better-agent)** [![GitHub stars](https://img.shields.io/github/stars/ofekron/better-agent?style=social&color=white)](https://github.com/ofekron/better-agent/stargazers)\
+- **[Better Agent](https://github.com/ofekron/better-agent)** [![GitHub_Stars](https://img.shields.io/github/stars/ofekron/better-agent?style=social&color=white)](https://github.com/ofekron/better-agent/stargazers)\
   Local web workspace for orchestrating native Claude, Codex, and Gemini coding-agent sessions with parallel delegation, persistent state, approval gates, file access, and restart recovery.
-- **[fractal](https://github.com/plasma-ai/fractal)** [![GitHub stars](https://img.shields.io/github/stars/plasma-ai/fractal?style=social&color=white)](https://github.com/plasma-ai/fractal/stargazers)\
+- **[fractal](https://github.com/plasma-ai/fractal)** [![GitHub_Stars](https://img.shields.io/github/stars/plasma-ai/fractal?style=social&color=white)](https://github.com/plasma-ai/fractal/stargazers)\
   Python runtime for hierarchical coding-agent orchestration. Each node runs in its own Git worktree, can delegate separable subtasks to child nodes, and operates within configurable iteration, depth, child, cost, and time limits.
-- **[Orkas](https://github.com/Orkas-AI/Orkas)** [![GitHub stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social&color=white)](https://github.com/Orkas-AI/Orkas/stargazers)\
+- **[Orkas](https://github.com/Orkas-AI/Orkas)** [![GitHub_Stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social&color=white)](https://github.com/Orkas-AI/Orkas/stargazers)\
   Open-source, local-first desktop AI workspace where a Commander turns goals into plans and coordinates specialist agents for research, coding, data analysis, documents, presentations, and video.
-- **[YYLO](https://github.com/yylo-dev/yylo)** [![GitHub stars](https://img.shields.io/github/stars/yylo-dev/yylo?style=social&color=white)](https://github.com/yylo-dev/yylo/stargazers)\
+- **[YYLO](https://github.com/yylo-dev/yylo)** [![GitHub_Stars](https://img.shields.io/github/stars/yylo-dev/yylo?style=social&color=white)](https://github.com/yylo-dev/yylo/stargazers)\
   Command-line orchestrator for multi-agent coding workflows: runs Claude Code, Codex, and Gemini CLI agents in isolated git worktrees with kanban task state, typed merge and release flows, and autonomous agent loops.
 
-- **[Bunkhouse](https://github.com/braedonsaunders/bunkhouse)** [![GitHub stars](https://img.shields.io/github/stars/braedonsaunders/bunkhouse?style=social&color=white)](https://github.com/braedonsaunders/bunkhouse/stargazers)  
+- **[Bunkhouse](https://github.com/braedonsaunders/bunkhouse)** [![GitHub_Stars](https://img.shields.io/github/stars/braedonsaunders/bunkhouse?style=social&color=white)](https://github.com/braedonsaunders/bunkhouse/stargazers)  
   Open-source AI employees for main-street business: multitenant company inbox, org chart, and governed procedures.
 
 ## 🛠️ Vendor-Native SDKs & Protocols
 *Optimized for specific LLM providers and tool integration.*
 
-- **[OpenAI Agents SDK](https://github.com/openai/openai-python)** [![GitHub stars](https://img.shields.io/github/stars/openai/openai-python?style=social&color=white)](https://github.com/openai/openai-python/stargazers)  
+- **[OpenAI Agents SDK](https://github.com/openai/openai-python)** [![GitHub_Stars](https://img.shields.io/github/stars/openai/openai-python?style=social&color=white)](https://github.com/openai/openai-python/stargazers)  
   Streamlined orchestration for GPT-5 and Swarm-based architectures.
-- **[Vercel AI SDK](https://github.com/vercel/ai)** [![GitHub stars](https://img.shields.io/github/stars/vercel/ai?style=social&color=white)](https://github.com/vercel/ai/stargazers)  
+- **[Vercel AI SDK](https://github.com/vercel/ai)** [![GitHub_Stars](https://img.shields.io/github/stars/vercel/ai?style=social&color=white)](https://github.com/vercel/ai/stargazers)  
   TypeScript toolkit for building structured AI responses, chat interfaces, and model routing.
-- **[Pydantic AI](https://ai.pydantic.dev)** [![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social&color=white)](https://github.com/pydantic/pydantic-ai/stargazers)  
+- **[Pydantic AI](https://ai.pydantic.dev)** [![GitHub_Stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social&color=white)](https://github.com/pydantic/pydantic-ai/stargazers)  
   Fast-growing framework for building **Type-Safe Agents** with rigorous schema validation.
-- **[Claude Agent SDK](https://github.com/anthropics/anthropic-sdk-python)** [![GitHub stars](https://img.shields.io/github/stars/anthropics/anthropic-sdk-python?style=social&color=white)](https://github.com/anthropics/anthropic-sdk-python/stargazers)  
+- **[Claude Agent SDK](https://github.com/anthropics/anthropic-sdk-python)** [![GitHub_Stars](https://img.shields.io/github/stars/anthropics/anthropic-sdk-python?style=social&color=white)](https://github.com/anthropics/anthropic-sdk-python/stargazers)  
   Native Anthropic support for **MCP (Model Context Protocol)**. Best-in-class tool use and reasoning for Claude 3.5/4 models.
 
 ## 🧰 Tools & Utilities
 *Essential components for agent memory, tool-calling, and environment interaction.*
 
-- **[Firecrawl](https://github.com/firecrawl/firecrawl)** [![GitHub stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social&color=white)](https://github.com/firecrawl/firecrawl/stargazers)  
+- **[Firecrawl](https://github.com/firecrawl/firecrawl)** [![GitHub_Stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social&color=white)](https://github.com/firecrawl/firecrawl/stargazers)  
   The go-to for **Browser Agents**. Turns any website into LLM-ready markdown for agentic research.
-- **[Mem0](https://github.com/mem0ai/mem0)** [![GitHub stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social&color=white)](https://github.com/mem0ai/mem0/stargazers)  
+- **[Mem0](https://github.com/mem0ai/mem0)** [![GitHub_Stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social&color=white)](https://github.com/mem0ai/mem0/stargazers)  
   The "Personal Memory" layer for AI agents. Provides long-term persistence and personalization.
-- **[LiteLLM](https://github.com/BerriAI/litellm)** [![GitHub stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social&color=white)](https://github.com/BerriAI/litellm/stargazers)  
+- **[LiteLLM](https://github.com/BerriAI/litellm)** [![GitHub_Stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social&color=white)](https://github.com/BerriAI/litellm/stargazers)  
   The standard translation proxy. Call 100+ LLMs using the OpenAI input/output format.
-- **[Langfuse](https://github.com/langfuse/langfuse)** [![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
+- **[Langfuse](https://github.com/langfuse/langfuse)** [![GitHub_Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
   Open-source LLM engineering platform providing telemetry, evaluation, prompt management, and metrics.
-- **[Composio](https://github.com/composiohq/composio)** [![GitHub stars](https://img.shields.io/github/stars/composiohq/composio?style=social&color=white)](https://github.com/composiohq/composio/stargazers)  
+- **[Composio](https://github.com/composiohq/composio)** [![GitHub_Stars](https://img.shields.io/github/stars/composiohq/composio?style=social&color=white)](https://github.com/composiohq/composio/stargazers)  
   The industry leader for **Agent Tool Integration**. Connects agents to 100+ apps like GitHub, Slack, and Salesforce.
-- **[OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay)** [![GitHub stars](https://img.shields.io/github/stars/ShakespeareLabs/open-agent-relay?style=social&color=white)](https://github.com/ShakespeareLabs/open-agent-relay/stargazers)  
+- **[OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay)** [![GitHub_Stars](https://img.shields.io/github/stars/ShakespeareLabs/open-agent-relay?style=social&color=white)](https://github.com/ShakespeareLabs/open-agent-relay/stargazers)  
   A local-first capability relay for agentic workflows that lets one agent invoke a restricted local agent or automation over a keyed trusted LAN.
-- **[Ordewell](https://github.com/ordewell/ordewell)** [![GitHub stars](https://img.shields.io/github/stars/ordewell/ordewell?style=social&color=white)](https://github.com/ordewell/ordewell/stargazers) Terminal CLI and TUI that turns one goal into an ordered, editable plan of coding agent tasks, each with its own harness, model and mode, and accepts a task as done only when its completion marker appears in that runner's output.
+- **[Ordewell](https://github.com/ordewell/ordewell)** [![GitHub_Stars](https://img.shields.io/github/stars/ordewell/ordewell?style=social&color=white)](https://github.com/ordewell/ordewell/stargazers) Terminal CLI and TUI that turns one goal into an ordered, editable plan of coding agent tasks, each with its own harness, model and mode, and accepts a task as done only when its completion marker appears in that runner's output.
 - **[LangSmith](https://smith.langchain.com)**  
   The standard for **Agent Observability** and **Agent Telemetry**. Essential for debugging complex multi-agent traces.
-- **[OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)** [![GitHub stars](https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=social&color=white)](https://github.com/Continuum-AI-Corp/OrcaReplay/stargazers)  
+- **[OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)** [![GitHub_Stars](https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=social&color=white)](https://github.com/Continuum-AI-Corp/OrcaReplay/stargazers)  
   Records an **agentic workflow** beneath the harness and replays it offline from the recorded bytes with no model called; serves the trace store over **MCP** so an agent can inspect, diff and re-run its own past runs.
 
 ---
@@ -169,3 +169,12 @@ Thank you so much for using and exploring **Awesome Agent Orchestration Platform
 [![Star History Chart](https://api.star-history.com/chart?repos=ishandutta2007/awesome-agent-orchestration-platforms&type=date)](https://star-history.com/#ishandutta2007/awesome-agent-orchestration-platforms&Date)
 
 *Maintained by the AI Community. Last Updated: May 2026.*
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Agent-Orchestration-Platforms&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Agent-Orchestration-Platforms_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Agent-Orchestration-Platforms_growth.svg">
+  </picture>
+</a>
