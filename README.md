@@ -28,6 +28,27 @@ This repository tracks the most powerful tools for building, scaling, and managi
 
 ---
 
+## 📈 Sector Overview & Market Dynamics
+The AI Agent Orchestration and Autonomous Agents sector is projected to grow from **~$7.8B–$8.0B in 2025** to **~$11B in 2026**, on a path to surpass **$50B by 2030** (CAGR >45%). The market is currently **moderately fragmented**: while foundational tech conglomerates and breakout infrastructure unicorns (LangChain, ByteDance) anchor developer mindshare, the application layer remains highly distributed across fast-moving vertical, framework-specific, and voice-native startups rather than a single winner-take-all monopoly.
+
+## ☁️ SaaS & Hosted Platforms
+*Commercial hosted solutions for managing, building, and deploying autonomous AI agent workflows and swarms, ranked by company size and valuation.*
+
+| Platform | Key Capabilities | Company Scale (Valuation / Funding / Rev) | Starting Tier Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Coze](https://www.coze.com)** | Visual multi-agent builder & bot deployment across Discord, Telegram, and enterprise apps. | **~$330B–$480B Valuation** *(Parent: ByteDance)* | **$19/mo** (Premium Tier) | **Free Forever:** 100 daily message credits, 50 bots, community plugins. |
+| **[Flowise Cloud](https://flowiseai.com)** | Managed low-code drag-and-drop canvas for orchestration and LangChain-powered multi-agent flows. | **~$47.7B Market Cap** *(Parent: Workday; acquired 2025)* | **$35/mo** (Starter Tier) | **Free Forever:** 2 active flows, 100 predictions/mo, 5MB storage. |
+| **[LangSmith](https://smith.langchain.com)** | Enterprise observability, evaluation, trace debugging, and prompt playground for LangGraph multi-agent teams. | **$1.25B Valuation** *(Series B; $160M+ raised; ~$15M ARR)* | **$39/seat/mo** (Plus Tier) | **Free Forever:** Up to 5,000 traces/mo, 1 seat, 14-day data retention. |
+| **[Dify Cloud](https://dify.ai)** | Hosted visual studio for designing, testing, and scaling multi-agent systems and Agentic RAG apps. | **$180M Valuation** *(Series Pre-A; $30M raised)* | **$59/mo** (Professional Tier) | **Free Forever (Sandbox):** 200 GPT/Claude calls credit, 5 knowledge bases, 10MB storage. |
+| **[CrewAI Enterprise](https://crewai.com)** | Managed cloud execution and scaling platform for CrewAI multi-agent crews with production telemetry. | **~$177M Valuation** *(Series A/B; $18M–$38M raised; ~$3M ARR)* | **$25/mo** (Pro Tier) | **Free Forever:** 50 execution runs/mo, 1 user seat, community access. |
+| **[Relevance AI](https://relevanceai.com)** | Enterprise workforce platform to construct autonomous B2B agent teams with human-in-the-loop approvals. | **~$100M–$150M Est. Valuation** *($42M raised; ~$2.9M ARR)* | **$199/mo** (Pro Tier) | **Free Forever:** 100 credits/day, max 3 active agents, community support. |
+| **[Dust](https://dust.tt)** | Enterprise-grade collaborative multi-agent platform connecting internal knowledge (Notion, Slack, Drive). | **~$80M–$120M Est. Valuation** *($60M+ raised; ~$7.3M ARR)* | **$29/user/mo** (Pro Tier) | **Free Forever / 15-Day Trial:** 500 lifetime test credits or 15-day unrestricted workspace trial. |
+| **[Fixie.ai](https://fixie.ai)** | Speech-native conversational multi-modal agent platform (Ultravox) for real-time voice and reasoning agent loops. | **~$50M–$75M Est. Valuation** *($17M Seed raised; Redpoint)* | **$100/mo** (Pro Tier; pay-as-you-go starts at $0.05/min) | **Free Forever:** 30 minutes of voice/agent interactions per account. |
+| **[AgentOps](https://agentops.ai)** | Dedicated multi-agent loop observability, time-travel session replays, and Agent FinOps cost tracking. | **~$15M–$25M Est. Valuation** *($2.6M Pre-Seed raised)* | **$40/mo** (Pro Tier base) | **Free Forever:** Up to 5,000 recorded events/mo, standard session tracking. |
+| **[SuperAGI Cloud](https://superagi.com)** | Cloud infrastructure and marketplace to run, schedule, and automate concurrent autonomous agents. | **Seed / Open-Source Commercial** *(Venture-backed)* | **$7/user/mo** (Growth Tier) | **Free Forever:** 100 monthly automation credits, access to Lite apps. |
+
+---
+
 ## 🏗️ High-Control Orchestration (Deterministic)
 *Best for production systems requiring strict reliability and state management.*
 
