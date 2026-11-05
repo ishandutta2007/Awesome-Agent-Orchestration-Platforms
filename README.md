@@ -104,6 +104,8 @@ This repository tracks the most powerful tools for building, scaling, and managi
   A local-first capability relay for agentic workflows that lets one agent invoke a restricted local agent or automation over a keyed trusted LAN.
 - **[LangSmith](https://smith.langchain.com)**  
   The standard for **Agent Observability** and **Agent Telemetry**. Essential for debugging complex multi-agent traces.
+- **[OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)** [![GitHub stars](https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=social&color=white)](https://github.com/Continuum-AI-Corp/OrcaReplay/stargazers)  
+  Records an **agentic workflow** beneath the harness and replays it offline from the recorded bytes with no model called; serves the trace store over **MCP** so an agent can inspect, diff and re-run its own past runs.
 
 ---
 
