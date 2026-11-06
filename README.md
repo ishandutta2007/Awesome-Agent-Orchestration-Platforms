@@ -92,6 +92,8 @@ The AI Agent Orchestration and Autonomous Agents sector is projected to grow fro
 
 - **[Bunkhouse](https://github.com/braedonsaunders/bunkhouse)** [![GitHub_Stars](https://img.shields.io/github/stars/braedonsaunders/bunkhouse?style=social&color=white)](https://github.com/braedonsaunders/bunkhouse/stargazers)  
   Open-source AI employees for main-street business: multitenant company inbox, org chart, and governed procedures.
+- **[Crewly](https://github.com/stevehuang0115/crewly)** [![GitHub stars](https://img.shields.io/github/stars/stevehuang0115/crewly?style=social&color=white)](https://github.com/stevehuang0115/crewly/stargazers)\
+  Local, MIT-licensed platform that runs a team of role-based agents (developer, QA, PM, orchestrator) on Claude Code, Codex, and Gemini CLI, with task delegation, shared persistent memory, and a web dashboard of live agent terminals.
 
 ## 🛠️ Vendor-Native SDKs & Protocols
 *Optimized for specific LLM providers and tool integration.*
