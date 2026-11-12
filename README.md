@@ -94,6 +94,8 @@ The AI Agent Orchestration and Autonomous Agents sector is projected to grow fro
   Open-source AI employees for main-street business: multitenant company inbox, org chart, and governed procedures.
 - **[Crewly](https://github.com/stevehuang0115/crewly)** [![GitHub stars](https://img.shields.io/github/stars/stevehuang0115/crewly?style=social&color=white)](https://github.com/stevehuang0115/crewly/stargazers)\
   Local, MIT-licensed platform that runs a team of role-based agents (developer, QA, PM, orchestrator) on Claude Code, Codex, and Gemini CLI, with task delegation, shared persistent memory, and a web dashboard of live agent terminals.
+- **[Reliant](https://github.com/reliant-labs/reliant)** [![GitHub stars](https://img.shields.io/github/stars/reliant-labs/reliant?style=social&color=white)](https://github.com/reliant-labs/reliant/stargazers)\
+  Source-available (BSL 1.1) agent harness with desktop and web apps where multi-agent coding workflows are YAML graphs versioned in the repo: agent, shell, approval and integration steps joined by conditional edges, started by hand, on a schedule or by GitHub, Slack, Gmail or Twilio events. Agents spawn sub-agents, use MCP servers, and run on your own computer or on cloud machines.
 
 ## 🛠️ Vendor-Native SDKs & Protocols
 *Optimized for specific LLM providers and tool integration.*
