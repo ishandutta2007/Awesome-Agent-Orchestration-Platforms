@@ -89,6 +89,8 @@ The AI Agent Orchestration and Autonomous Agents sector is projected to grow fro
   Open-source, local-first desktop AI workspace where a Commander turns goals into plans and coordinates specialist agents for research, coding, data analysis, documents, presentations, and video.
 - **[YYLO](https://github.com/yylo-dev/yylo)** [![GitHub_Stars](https://img.shields.io/github/stars/yylo-dev/yylo?style=social&color=white)](https://github.com/yylo-dev/yylo/stargazers)\
   Command-line orchestrator for multi-agent coding workflows: runs Claude Code, Codex, and Gemini CLI agents in isolated git worktrees with kanban task state, typed merge and release flows, and autonomous agent loops.
+- **[Sillage](https://github.com/MarlBurroW/sillage)** [![GitHub_Stars](https://img.shields.io/github/stars/MarlBurroW/sillage?style=social&color=white)](https://github.com/MarlBurroW/sillage/stargazers)\
+  Self-hosted, MIT-licensed, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine, with server-side sessions that outlive the client, a message queue, full-text search across conversations, an IDE panel with worktrees, and a board the agents read through its own MCP server. Single Docker container.
 
 - **[Bunkhouse](https://github.com/braedonsaunders/bunkhouse)** [![GitHub_Stars](https://img.shields.io/github/stars/braedonsaunders/bunkhouse?style=social&color=white)](https://github.com/braedonsaunders/bunkhouse/stargazers)  
   Open-source AI employees for main-street business: multitenant company inbox, org chart, and governed procedures.
