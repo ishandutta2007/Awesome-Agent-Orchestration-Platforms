@@ -94,6 +94,8 @@ The AI Agent Orchestration and Autonomous Agents sector is projected to grow fro
   Open-source AI employees for main-street business: multitenant company inbox, org chart, and governed procedures.
 - **[Crewly](https://github.com/stevehuang0115/crewly)** [![GitHub stars](https://img.shields.io/github/stars/stevehuang0115/crewly?style=social&color=white)](https://github.com/stevehuang0115/crewly/stargazers)\
   Local, MIT-licensed platform that runs a team of role-based agents (developer, QA, PM, orchestrator) on Claude Code, Codex, and Gemini CLI, with task delegation, shared persistent memory, and a web dashboard of live agent terminals.
+- **[OMK](https://github.com/dmae97/omk)** [![GitHub stars](https://img.shields.io/github/stars/dmae97/omk?style=social&color=white)](https://github.com/dmae97/omk/stargazers)\
+  Open-source multi-agent coding CLI for the terminal (TypeScript, MIT). Switch models mid-session; finish goals only when your test passes.
 
 ## 🛠️ Vendor-Native SDKs & Protocols
 *Optimized for specific LLM providers and tool integration.*
